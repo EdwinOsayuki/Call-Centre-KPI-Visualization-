@@ -18,3 +18,8 @@ For this KPI Visualization, I used the PwC Forage Internship Call Centre Dataset
 2. Overall calls answered/abandoned
 3. Average speed of answer
 4. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+
+https://user-images.githubusercontent.com/83877492/148392739-c7eba198-eefa-4ae5-910e-67ca12a40547.png
+
+![image](https://user-images.githubusercontent.com/68012849/149424705-57354330-e70a-4b25-b802-f9918796e453.png)
