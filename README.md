@@ -4,16 +4,17 @@ KPIs (Key Performance Indicators) are quantifiable measurements used to gauge a 
 
 **KPIs are mainly used to **
 
-Measure progress
-Monitor company growth
-Keep players in check
-Analyze patterns overtime
-Make adjustments where neccessary.
+1. Measure progress
+2. Monitor company growth
+3. Keep players in check
+4. Analyze patterns overtime
+5. Make adjustments where neccessary.
+
 The various types of KPIs include Qualitative and Quantitative Indicators, Actionable Indicators, Financial Indicators, Process Indicators, Directional and Practical Indicators and so much more.
 
 For this KPI Visualization, I used the PwC Forage Internship Call Centre Dataset. The task was to give the manager an accurate overview of long term trends in customer and agent behaviour. The dataset contains a record of 5000 calls made in the call centre. The possible KPIs required were
 
-Overall customer satisfaction
-Overall calls answered/abandoned
-Average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+1. Overall customer satisfaction
+2. Overall calls answered/abandoned
+3. Average speed of answer
+4. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
